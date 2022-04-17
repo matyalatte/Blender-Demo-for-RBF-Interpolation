@@ -8,7 +8,7 @@ This is a demo for RBF interpolation.<br>
 It will make a function: (X, Y)->(R, G, B) from 5 samples.<br>
 <br>
 I tested with Blender 3.0.<br>
-There might not work with other versions.<br>
+It might not work with other versions.<br>
 
 ## Theory
 Here is a brief of RBF interpolation.<br>
